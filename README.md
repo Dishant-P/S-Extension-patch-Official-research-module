@@ -1,1 +1,1 @@
-# S-Extension patch - Similarity-based extension patch for Object detection models.
+# S-Extension Patch: A simple and efficient way to extend an object detection model 
