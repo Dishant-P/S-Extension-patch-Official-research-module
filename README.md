@@ -41,6 +41,13 @@ In the paper a ResNet152 model was trained from the pre-trained PyTorch fine-tun
 
 If you want to cite the entire work of S-Extension Patch: A simple and efficient way toextend an object detection model please make sure to include the full citiation as follows:
 
+>@article{parikh2021s,  
+>  title={S-Extension Patch: A simple and efficient way to extend an object detection model},  
+>  author={Parikh, Dishant},  
+>  journal={arXiv preprint arXiv:2110.02670},  
+>  year={2021}  
+>}  
+
 ## Author
 Dishant Parikh | [DishantP](https://github.com/Dishant-P)
 
